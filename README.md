@@ -1,4 +1,4 @@
-Finissant collégial du CÉGEP Édouard Montpetit en Techniques d’Intégration Multimédia, en recherche d’un stage de développeur “full-stack”.
+Finissant collégial du CÉGEP Édouard Montpetit en Techniques d’Intégration Multimédia, en recherche d’un stage de développeur frond-end et/ou back-end.
 
 Mes compétences couvrent les bases de la photo, du son, de la vidéo, de la programmation, de la 3D et du design web, mais je m'excelle dans la programmation "front-end" et "back-end" du web.
 
